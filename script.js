@@ -23,7 +23,7 @@ function square(num) {
 	console.log(num * num);
 }
 
-//squareMe(myNumber)
+squareMe(myNumber)
 
 // Question #4 accept a number and return it negated
 function negate(num){
